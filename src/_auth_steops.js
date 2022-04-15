@@ -6,7 +6,9 @@
  * 5. Create Login, SignUp Component, setup route
  * 6. attach form field handler and form submit handler
  * 7. npm install --save react-firebase-hooks
- *  8. 
+ * 8. useCreateUserWithEmailAndPassword from react-firebase-hooks
+ * 9. if user is created redirect to the expected package
+ * 10. useSignInWithEmailAndPassword for Sign In
  * 
  * // github repository where located (git remote -v)
  * 
